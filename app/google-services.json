@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480311706940",
+    "firebase_url": "https://startup-2b001.firebaseio.com",
+    "project_id": "startup-2b001",
+    "storage_bucket": "startup-2b001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480311706940:android:c14b7b4aac2ce0b5f30a39",
+        "android_client_info": {
+          "package_name": "com.hussein.findmyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480311706940-hu0dguorsj797irn8pfm3foic2umd9pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussein.findmyphone",
+            "certificate_hash": "32e5b9a5773f37ee6596a1e7766db3aabaee509a"
+          }
+        },
+        {
+          "client_id": "480311706940-a2q22rehutchn6k3dv8g8ami19kn6kdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHFs2vBOOA0o9PC3RBVDcs7HFga3zBNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480311706940-a2q22rehutchn6k3dv8g8ami19kn6kdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
